@@ -15,7 +15,7 @@
 
 This project consists for the following files:
 
-* newsdata.py - main file to run this Logs Analysis Reporting tool
+* logdata.py - main file to run this Logs Analysis Reporting tool
 * README.md - instructions to install this reporting tool
 * output.txt - output file that will shown on the command prompt
 
