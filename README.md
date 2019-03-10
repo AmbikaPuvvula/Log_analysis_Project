@@ -47,7 +47,7 @@ This project consists for the following files:
     psql -d news -f newsdata.sql
   ```
     
-From the vagrant directory inside the virtual machine,run newsdata.py using:
+From the vagrant directory inside the virtual machine,run logdata.py using:
   ```
-    $ python newsdata.py
+    $ python logdata.py
   ```
